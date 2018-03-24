@@ -5,3 +5,4 @@
 现在只用了beta2的下降。beta1还没加，是指数下降，直接用learning rate decay的相同方法就可以；目前learning rate 是polynomial decay
 
 目前的一些结果
+https://www.dropbox.com/sh/hm3t8mnqw4a8xd2/AAB6UZ10AfFBvuX7EmDmvk-Ua?dl=0
