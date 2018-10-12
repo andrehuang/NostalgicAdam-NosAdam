@@ -3,6 +3,6 @@
 Haiwen Huang, Chang Wang, Bin Dong (https://arxiv.org/abs/1805.07557) 
 (Note: This is only the draft version, refined version will be available after the paper published)
 
-1. two main optimizers are adastab.py and OurAdam.py, with the former being NosAdam optimizer. (AdaStab is its original name) And they can be used just like any other optimizers in your own code, see examples in the iPython Notebooks
+1. two main optimizers are adastab.py and OurAdam.py, with the former being NosAdam optimizer. (AdaStab is its original name) And they can be used just like any other optimizers in your own code, see examples in the iPython Notebooks. Also note that AMSGrad can also be implemented using OurAdam.py, by setting the argument AMSGrad=True.
 
 2. the iPython Notebooks are the training logs of the experiments in the paper (Section 5).
