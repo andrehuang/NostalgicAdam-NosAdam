@@ -88,7 +88,9 @@ class Solver(object):
         # self.model = VGG16().to(self.device)
         # self.model = VGG19().to(self.device)
         # self.model = GoogLeNet().to(self.device)
-        # self.model = resnet18().to(self.device)
+        
+        # self.model = ResNet18().to(self.device)
+        
         # self.model = resnet34().to(self.device)
         # self.model = resnet50().to(self.device)
         # self.model = resnet101().to(self.device)
