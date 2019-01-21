@@ -7,6 +7,6 @@ To run the training process, download the repository, and use
 ''python train_cifar.py --optimizer nosadam --epoch 200 --lr 0.01''
 
 
-1. two main optimizers are adastab.py and OurAdam.py, with the former being NosAdam optimizer. (AdaStab is its original name) And they can be used just like any other optimizers in your own code, see examples in the iPython Notebooks. Also note that AMSGrad can also be implemented using OurAdam.py, by setting the argument AMSGrad=True.
+1. two main optimizers are NosAdam.py and OurAdam.py. They can be imported and used just like any other optimizers in your own code, see examples in the iPython Notebooks. Also note that AMSGrad can also be implemented using OurAdam.py, by setting the argument AMSGrad=True.
 
 2. the iPython Notebooks are the training logs of the experiments in the paper (Section 5).
