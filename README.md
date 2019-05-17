@@ -5,7 +5,7 @@ Haiwen Huang, Chang Wang, Bin Dong (https://arxiv.org/abs/1805.07557)
 Dependencies: Python >= 3.5, Pytorch >= 0.4.0
 
 If you find this code useful, please cite:
-'''
+```
 @article{DBLP:journals/corr/abs-1805-07557,
   author    = {Haiwen Huang and
                Chang Wang and
@@ -22,5 +22,5 @@ If you find this code useful, please cite:
   biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1805-07557},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-'''
+```
 
