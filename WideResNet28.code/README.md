@@ -1,6 +1,6 @@
 
-To run the training process, download the repository, and use 
-''python train_cifar.py --optimizer nosadam --epoch 200 --lr 0.02''
+To run the training process, download the repository, and run
+```python train_cifar.py --optimizer nosadam --epoch 200 --lr 0.02```
 
 ### The highest acc:
 Adam: 88.71%;
