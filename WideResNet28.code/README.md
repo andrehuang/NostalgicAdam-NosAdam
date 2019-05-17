@@ -1,5 +1,6 @@
 
 To run the training process, download the repository, and run
+
 ```python train_cifar.py --optimizer nosadam --epoch 200 --lr 0.02```
 
 ### The highest acc:
