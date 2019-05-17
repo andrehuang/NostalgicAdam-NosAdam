@@ -4,6 +4,8 @@ Haiwen Huang, Chang Wang, Bin Dong (https://arxiv.org/abs/1805.07557)
 
 Dependencies: Python >= 3.5, Pytorch >= 0.4.0
 
+An introduction to the paper in Chinese: https://zhuanlan.zhihu.com/p/65625686
+
 If you find this code useful, please cite:
 ```
 @article{DBLP:journals/corr/abs-1805-07557,
