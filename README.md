@@ -8,21 +8,17 @@ An introduction to the paper in Chinese: https://zhuanlan.zhihu.com/p/65625686
 
 If you find this code useful, please cite:
 ```
-@article{DBLP:journals/corr/abs-1805-07557,
-  author    = {Haiwen Huang and
-               Chang Wang and
-               Bin Dong},
-  title     = {Nostalgic Adam: Weighing more of the past gradients when designing
-               the adaptive learning rate},
-  journal   = {CoRR},
-  volume    = {abs/1805.07557},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1805.07557},
-  archivePrefix = {arXiv},
-  eprint    = {1805.07557},
-  timestamp = {Mon, 13 Aug 2018 16:47:04 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1805-07557},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{ijcai2019-355,
+  title     = {Nostalgic Adam: Weighting More of the Past Gradients When Designing the Adaptive Learning Rate},
+  author    = {Huang, Haiwen and Wang, Chang and Dong, Bin},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {2556--2562},
+  year      = {2019},
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/355},
+  url       = {https://doi.org/10.24963/ijcai.2019/355},
 }
 ```
 
