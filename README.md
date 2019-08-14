@@ -1,5 +1,5 @@
 ## Nostalgic Adam
-### repository for the paper: Nostalgic Adam: Weighting more of the past gradients when designing the adaptive learning rate
+### Code and supplements for "Nostalgic Adam: Weighting more of the past gradients when designing the adaptive learning rate"
 Haiwen Huang, Chang Wang, Bin Dong (http://bicmr.pku.edu.cn/~dongbin/Publications/NosAdam.pdf7) 
 
 Dependencies: Python >= 3.5, Pytorch >= 0.4.0
